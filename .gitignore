@@ -1,3 +1,5 @@
+**/*.iml
+**/*.idea/
 **/java-releases/*
 **/liferay-releases/*
 !**/java-releases/*.md5
